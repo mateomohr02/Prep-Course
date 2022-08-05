@@ -1,0 +1,5 @@
+Variables: son espacios en memoria a los que podemos asignar datos
+Strings: son un tipo de datos que se caracteriza por ser una cadena de caracteres de cualquier tipo
+Funciones: son un bloque de instrucciones al cual ingresamos unos valores a los que llamamos argumentos y nos devuelve algo
+Declaracions: es algo que se sucede si una condicion se cumple
+Valores booleanos: son valores que funcionan como un interruptor de encendido y apagado
