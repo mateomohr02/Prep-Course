@@ -1,0 +1,1 @@
+Arrays: Son como una mochila en la que se pueden poner objetos de distintos tipos, buscar algo especifico que tengamos en la mochila, sacar y agregar cosas.
