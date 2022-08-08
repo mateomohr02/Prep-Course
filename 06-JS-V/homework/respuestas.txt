@@ -1,0 +1,3 @@
+prototype: es el objeto base de todos los elementos de js, con sus propiedades asignadas las cuales son métodos.
+
+constructors: son funciones encargadas de crear el molde de nuestras clases
