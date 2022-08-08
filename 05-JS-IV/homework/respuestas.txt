@@ -1,0 +1,5 @@
+Objetos = Cómo los arrays, cada elemento ocupa un espacio, la diferencia es que estos espacios ahora tienen un nombre, Propiedades
+Propiedades = Son las partes que componen al objeto
+Métodos = son funciones definidas como Propiedades
+Bucle for in = el bucle for in es un ciclo que nos va a retornar las propiedades del objeto
+Notacion de puntos vs Notacion de corchetes = La notacion de puntos es más fácil de escribir y más intuitiva pero con la bracket notation tenemos acceso de forma más específica a la propiedad que queremos, lo que evita errores.
