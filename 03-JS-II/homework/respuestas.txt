@@ -1,0 +1,7 @@
+el bucle for: es un bucle que se ejecuta tantas veces como su condicion de cierre diga
+
+&& = operador de conjuncion
+
+|| = operador de disyuncion
+
+!= operador de negacion
