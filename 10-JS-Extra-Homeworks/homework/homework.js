@@ -10,6 +10,10 @@ function deObjetoAmatriz(objeto){
       C: 3
     }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
   //Escribe tu código aquí
+
+  var matriz = [];
+  
+
 }
 
 
@@ -50,6 +54,22 @@ function deleteAbc(cadena){
   //Define una función que elimine las letras "a", "b" y "c" de la cadena dada 
   //y devuelva la versión modificada o la misma cadena, en caso de contener dichas letras.
   //Escribe tu código aquí
+  function sacarLetras(cadena){
+    var nuevoStr = undefined;
+    cadena.forEach(element => {
+      if (element == "a" || element == "b" || element == "c"){
+        nuevoStr.push("");
+      }else{
+        nuevoStr.push(element);
+      }
+    });
+
+    return nuevoStr;
+  }
+
+
+  var cadena = sacarLetras(cadena);
+  return cadena;
 }
 
 

@@ -1,0 +1,1 @@
+funciones callback: son funciones que tienen como parámetro otra funcion
